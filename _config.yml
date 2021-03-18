@@ -4,14 +4,14 @@
 permalink:        pretty
 
 # Setup
-title:            Mika
+title:            Myno
 tagline:          'Portfolio'
 description:      'Idiot doing idiot things. Occasionally produces things of value.'
 url:              https://mynotaurus.github.io/
 baseurl:          https://mynotaurus.github.io/
 
 author:
-  name:           'Mika'
+  name:           'Myno'
 
 paginate:         5
 
